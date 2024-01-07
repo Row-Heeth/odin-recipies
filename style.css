@@ -1,0 +1,134 @@
+/* Home Page */
+
+.head {
+  background-color: orange;
+  padding: 20px;
+  text-align: center;
+  font-style: italic;
+  font-weight: 200;
+  text-shadow: 3px 3px 3px #000;
+  text-decoration-color: antiquewhite;
+  color: white;
+}
+
+
+.French.Toast {
+  background-color: rgb(214, 211, 192);
+  padding: 20px;
+  text-align: center;
+  font-style: italic;
+  font-weight: 200;
+  text-shadow: 3px 3px 3px #000;
+  text-decoration-color: antiquewhite;
+  color: white;
+  margin: 0%;
+
+}
+
+
+.click {
+  font-size: 30px;
+  font-weight: 200;
+  text-align: center;
+  font-style: italic;
+  text-shadow: 3px 3px 3px #000;
+  text-decoration-color: antiquewhite;
+  color: white;
+  margin: 0%;
+}
+
+
+.mutton.roganjosh {
+  background-color: rgb(214, 211, 192);
+  padding: 20px;
+  text-align: center;
+  font-style: italic;
+  font-weight: 200;
+  text-shadow: 3px 3px 3px #000;
+  text-decoration-color: antiquewhite;
+  color: white;
+  margin: 0%;
+}
+
+.blackbinnoodles {
+  background-color: rgb(214, 211, 192);
+  padding: 20px;
+  text-align: center;
+  font-style: italic;
+  font-weight: 200;
+  text-shadow: 3px 3px 3px #000;
+  text-decoration-color: antiquewhite;
+  color: white;
+  margin: 0%;
+}
+
+
+/* BlackBin Page */
+
+
+
+#blackbinPara {
+  font-size: 20px;
+  font-weight: 200;
+  text-align: center;
+  font-style: bold;
+  text-decoration-color: rgba(145, 206, 133, 0.164);
+  color: rgb(26, 1, 1);
+  margin: 0%;
+}
+
+h1 {
+
+  font-size: 30px;
+  font-weight: 200;
+  text-align: center;
+  font-style: italic;
+  font-style: bold;
+  text-decoration-color: antiquewhite;
+  color: rgb(20, 1, 1);
+  margin: 0%;
+}
+
+img {
+  background-color: salmon;
+  width: 50%;
+  height: 100%;
+  margin-left: 25%;
+}
+
+ul, ol {
+
+  font-size: 24px;
+  font-style: bold;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+
+#backgroundcolor p,ul,ol{
+
+  background: salmon;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  -webkit-background-clip: text;
+        
+          background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#backgroundcolor{
+
+  background: salmon;
+  
+}
+
+
+
+
+
+
+
+
+
+
